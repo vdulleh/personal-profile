@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">American football field background</title>
+  <desc id="desc">A stylized American football field with yard lines and end zones.</desc>
+  <defs>
+    <linearGradient id="grass" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#2b8c4b"/>
+      <stop offset="100%" stop-color="#175930"/>
+    </linearGradient>
+    <linearGradient id="stripe" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.15"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.04"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.15"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="1000" fill="url(#grass)"/>
+  <g opacity="0.22">
+    <rect y="0" width="1600" height="83.34" fill="url(#stripe)"/>
+    <rect y="166.68" width="1600" height="83.34" fill="url(#stripe)"/>
+    <rect y="333.36" width="1600" height="83.34" fill="url(#stripe)"/>
+    <rect y="500.04" width="1600" height="83.34" fill="url(#stripe)"/>
+    <rect y="666.72" width="1600" height="83.34" fill="url(#stripe)"/>
+    <rect y="833.4" width="1600" height="83.34" fill="url(#stripe)"/>
+  </g>
+  <rect x="50" y="80" width="1500" height="840" rx="20" fill="none" stroke="#f4f0e6" stroke-width="8"/>
+  <rect x="50" y="80" width="170" height="840" fill="#8f4c30" opacity="0.88"/>
+  <rect x="1380" y="80" width="170" height="840" fill="#8f4c30" opacity="0.88"/>
+  <g stroke="#f4f0e6" stroke-width="6" opacity="0.95">
+    <line x1="220" y1="80" x2="220" y2="920"/>
+    <line x1="336" y1="80" x2="336" y2="920"/>
+    <line x1="452" y1="80" x2="452" y2="920"/>
+    <line x1="568" y1="80" x2="568" y2="920"/>
+    <line x1="684" y1="80" x2="684" y2="920"/>
+    <line x1="800" y1="80" x2="800" y2="920"/>
+    <line x1="916" y1="80" x2="916" y2="920"/>
+    <line x1="1032" y1="80" x2="1032" y2="920"/>
+    <line x1="1148" y1="80" x2="1148" y2="920"/>
+    <line x1="1264" y1="80" x2="1264" y2="920"/>
+    <line x1="1380" y1="80" x2="1380" y2="920"/>
+  </g>
+  <g stroke="#f4f0e6" stroke-width="4" opacity="0.88">
+    <line x1="278" y1="170" x2="278" y2="830"/>
+    <line x1="394" y1="170" x2="394" y2="830"/>
+    <line x1="510" y1="170" x2="510" y2="830"/>
+    <line x1="626" y1="170" x2="626" y2="830"/>
+    <line x1="742" y1="170" x2="742" y2="830"/>
+    <line x1="858" y1="170" x2="858" y2="830"/>
+    <line x1="974" y1="170" x2="974" y2="830"/>
+    <line x1="1090" y1="170" x2="1090" y2="830"/>
+    <line x1="1206" y1="170" x2="1206" y2="830"/>
+    <line x1="1322" y1="170" x2="1322" y2="830"/>
+  </g>
+  <g fill="#f4f0e6" font-family="Georgia, 'Times New Roman', serif" font-size="54" opacity="0.8">
+    <text x="270" y="145">10</text>
+    <text x="502" y="145">20</text>
+    <text x="734" y="145">30</text>
+    <text x="966" y="145">40</text>
+    <text x="1198" y="145">50</text>
+    <text x="1335" y="145" transform="rotate(180 1335 145)">10</text>
+    <text x="1103" y="145" transform="rotate(180 1103 145)">20</text>
+    <text x="871" y="145" transform="rotate(180 871 145)">30</text>
+    <text x="639" y="145" transform="rotate(180 639 145)">40</text>
+    <text x="407" y="145" transform="rotate(180 407 145)">50</text>
+  </g>
+</svg>
